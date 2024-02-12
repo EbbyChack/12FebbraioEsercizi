@@ -1,0 +1,7 @@
+C:\Users\joshy\OneDrive\Documents\Backend\_12FebbraioEs2\bin\Debug\_12FebbraioEs2.exe.config
+C:\Users\joshy\OneDrive\Documents\Backend\_12FebbraioEs2\bin\Debug\_12FebbraioEs2.exe
+C:\Users\joshy\OneDrive\Documents\Backend\_12FebbraioEs2\bin\Debug\_12FebbraioEs2.pdb
+C:\Users\joshy\OneDrive\Documents\Backend\_12FebbraioEs2\obj\Debug\_12FebbraioEs2.csproj.AssemblyReference.cache
+C:\Users\joshy\OneDrive\Documents\Backend\_12FebbraioEs2\obj\Debug\_12FebbraioEs2.csproj.CoreCompileInputs.cache
+C:\Users\joshy\OneDrive\Documents\Backend\_12FebbraioEs2\obj\Debug\_12FebbraioEs2.exe
+C:\Users\joshy\OneDrive\Documents\Backend\_12FebbraioEs2\obj\Debug\_12FebbraioEs2.pdb
